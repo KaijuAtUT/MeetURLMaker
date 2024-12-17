@@ -7,7 +7,7 @@
 ## できること
 
 * スプシから情報を取得して、指定の日時に指定のタイトルの Meet URL を作成し、スプシに反映する
-* Slack への転送は [AutoReminder](https://github.com/KaijuAtUT/AutoReminder) をご覧ください
+    * Slack への転送は [AutoReminder](https://github.com/KaijuAtUT/AutoReminder) をご覧ください
 
 ## 使い方
 
